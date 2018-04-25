@@ -1,0 +1,73 @@
+body {
+	margin: 0;
+}
+
+.welcome  {
+	text-align: center;
+}
+
+
+
+	.header {background-color: orange;
+	}
+
+
+	#logo {
+
+		width:40%;
+		display: inline-block;
+
+	}
+
+	#navigation {
+		display: inline-block;
+		width: 60%;
+		vertical-align: top;
+		padding-top: 4em;
+
+	}
+
+	#logo img {width: 50%}
+
+
+	.mission{
+		width: 50%;
+		display: inline-block;
+		vertical-align: top;
+	}
+
+	.vission{
+		width: 50%;
+		display:inline-block;
+		vertical-align: top;
+	}
+
+
+.img {
+	display: inline-block;
+	width: 20%;
+	height: 30%;
+}
+
+.gossip{
+	width: 80%;
+	display: inline-block;
+	vertical-align: top
+}
+
+.img img {
+	width: 100%;
+
+}
+
+.ada{
+	width: 50%;
+	display:inline-block;
+	vertical-align: top;
+}
+
+.cece {
+	width: 50%;
+	display:inline-block;
+	vertical-align: top; 
+}
